@@ -4,6 +4,7 @@
 
 library(tidyverse)
 library(quanteda)
+library(data.table)
 
 #create a list of the files from your target directory
 setwd("/Volumes/SP B75 PRO/Papers and Chapters/Women Voting for Women")
@@ -88,3 +89,5 @@ results_final_clean$porcentaje_votos_junta <- as.numeric(results_final_clean$por
 
 # Save
 save(results_final_clean, file ="results_final_clean.Rdata")
+fwrite(results_final_clean, file = "results_final_clean.csv")
+
