@@ -1,6 +1,6 @@
 # Resultados Elecciones Ecuador 2021 # 
 
-**[EN CONSTRUCCIÓN: Repositorio de resultados electorales de Ecuador desde 2002 hasta 2021]** Este es un repositorio de datos de los resultados electorales de la elecciones generales de Ecuador de febrero de 2021. También es el primer aporte de un proyecto más amplio que llevamos a cabo con [Diana Dávila Gordillo] (https://twitter.com/DiDavilaG), en el cual queremos crear un repositorio de resultados electorales de Ecuador desde 2002 hasta 2021. A medidad que vayamos limpiando y organizando la data, la iremos subiendo. También esperamos darle un mejor formato a este GitHub, como para que no se vea tan feo. 
+**[EN CONSTRUCCIÓN: Repositorio de resultados electorales de Ecuador desde 2002 hasta 2021]** Este es un repositorio de datos de los resultados electorales de la elecciones generales de Ecuador de febrero de 2021. También es el primer aporte de un proyecto más amplio que llevamos a cabo con [Diana Dávila Gordillo](https://twitter.com/DiDavilaG), en el cual queremos crear un repositorio de resultados electorales de Ecuador desde 2002 hasta 2021. A medidad que vayamos limpiando y organizando la data, la iremos subiendo. También esperamos darle un mejor formato a este GitHub, como para que no se vea tan feo. 
 
 ## Data: ##
 Por el momento, están disponibles los siguientes datos (con un pequeña descripción):
